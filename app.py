@@ -361,7 +361,7 @@ with st.sidebar:
         <span style="font-size:0.8rem;">Akansh Srivastava</span><br>
         <span style="font-size:0.72rem;color:#8A99B3;">Data Science &amp; ML Engineer</span><br>
         <span style="font-size:0.72rem;color:#8A99B3;margin-top:0.3rem;display:block;">📧 srivastavaakansh4@gmail.com</span>
-        <span style="font-size:0.72rem;color:#8A99B3;">🔗 github.com/arjun-ml</span>
+        <span style="font-size:0.72rem;color:#8A99B3;">https://github.com/akansh234</span>
     </div>
     """, unsafe_allow_html=True)
 
